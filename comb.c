@@ -4,7 +4,7 @@
 #include <math.h>
 #include <ctype.h>
 
-//--------------------------------------LINKED LIST STUFF-------------------------------------
+//--------------------------------------LINKED LIST IMPLEMENTATION-------------------------------------
 
 typedef struct node
 {
